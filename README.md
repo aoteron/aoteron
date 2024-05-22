@@ -17,8 +17,6 @@ I am a passionate full-stack developer with a solid background in multimedia jou
 
 - Intensive 7-month master's program with over 1200 hours dedicated to real-world projects using Agile methodologies (Kanban, Scrum).
 - Development of modern and robust applications, focusing on maintainability, scalability, efficiency, and best practices.
-- Stack: JavaScript, HTML5, CSS3, MERN (MongoDB, Express.js, React, Node.js), Git, APIs, Next.js, Redux, Docker.
-- Architectures and tools: DDD, MVC, Cloudinary, Auth0, JSONWebTokens, Jest, React Testing Library, Vercel.
 
 ---
 
