@@ -10,10 +10,6 @@ I am a passionate back-end developer with a solid background in multimedia journ
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoteron&theme=tokyonight)
-
----
-
 ## 💻 Current Experience
 
 ### Assembler Institute
@@ -23,6 +19,11 @@ I am a passionate back-end developer with a solid background in multimedia journ
 - Development of modern and robust applications, focusing on maintainability, scalability, efficiency, and best practices.
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoteron&theme=tokyonight)
+
+---
+
 
 ## 🔧 Technical Skills
 
