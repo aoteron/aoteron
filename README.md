@@ -1,6 +1,6 @@
 # 👋 Hi, Alberto overhere!
 
-![Developer](https://img.shields.io/badge/Full--Stack_Developer-blue) ![Journalist](https://img.shields.io/badge/Journalist-green)
+![Developer](https://img.shields.io/badge/Back--End_Developer-blue) ![Journalist](https://img.shields.io/badge/Journalist-green)
 
 ---
 
