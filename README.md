@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a passionate full-stack developer with a solid background in multimedia journalism. For six years, I worked at **ABC de Sevilla** as an audiovisual journalist, where I combined my skills in video and podcast production with digital front-page development. This experience led me to discover my love for programming, and I decided to pivot my career to explore this new universe of technological possibilities.
+I am a passionate back-end developer with a solid background in multimedia journalism. For six years, I worked at **ABC de Sevilla** as an audiovisual journalist, where I combined my skills in video and podcast production with digital front-page development. This experience led me to discover my love for programming, and I decided to pivot my career to explore this new universe of technological possibilities.
 
 ---
 
