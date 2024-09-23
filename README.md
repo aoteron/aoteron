@@ -12,11 +12,11 @@ I work to end drought in agriculture by developing software solutions based on d
 
 ## 💻 Current Experience
 
-### Agrointel
+### [Agrointel](https://agrointel.es)
 **Full-stack Developer and Data Analyst**
 
 - Development of an application that generates digital twins of irrigated crops and can predict water's movement in the soil.
-- Selected from over 900 companies to participate in Lanzadera, the second-best Start-up Hub in Europe according to the Financial Times.
+- Selected from over 900 companies to participate in [Lanzadera](https://lanzadera.es/) (Valencia), the second-best Start-up Hub in Europe according to the Financial Times.
 
 ---
 
