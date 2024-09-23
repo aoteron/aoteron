@@ -10,7 +10,7 @@ I work to end drought in agriculture by developing software solutions based on d
 
 ---
 
-## 💻 Current Experience
+## 💻 Current Position
 
 ### [Agrointel](https://agrointel.es)
 **Full-stack Developer and Data Analyst**
