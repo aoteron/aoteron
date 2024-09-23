@@ -6,17 +6,17 @@
 
 ## 🚀 About Me
 
-I am a passionate back-end developer with a solid background in multimedia journalism. For six years, I worked at **ABC de Sevilla** as an audiovisual journalist, where I combined my skills in video and podcast production with digital front-page development. This experience led me to discover my love for programming, and I decided to pivot my career to explore this new universe of technological possibilities.
+I work to end drought in agriculture by developing software solutions based on data analysis and machine learning. Previously, I worked as a journalist at ABC de Sevilla
 
 ---
 
 ## 💻 Current Experience
 
-### Assembler Institute
-**Full-stack Developer**
+### Agrointel
+**Full-stack Developer and Data Analyst**
 
-- Intensive 7-month master's program with over 1200 hours dedicated to real-world projects using Agile methodologies (Kanban, Scrum).
-- Development of modern and robust applications, focusing on maintainability, scalability, efficiency, and best practices.
+- Development of an application that generates digital twins of irrigated crops and can predict water's movement in the soil.
+- Selected from over 900 companies to participate in Lanzadera, the second-best Start-up Hub in Europe according to the Financial Times.
 
 ---
 
@@ -60,7 +60,7 @@ I am a passionate back-end developer with a solid background in multimedia journ
 
 ## 📫 Contact
 
-You can find me on [LinkedIn](https://www.linkedin.com/aoteronunez) or send an email to [aoteron.developer@gmail.com](mailto:aoteron.developer@gmail.com). I am open to new opportunities and collaborations!
+You can find me on [LinkedIn](https://www.linkedin.com/aoteronunez) or send an email to [aoteron.developer@gmail.com](mailto:aoteron.developer@gmail.com).
 
 ---
 
