@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alberto!
 
-![Software Engineer](https://img.shields.io/badge/Software_Engineer-blue) ![From%20Journalism](https://img.shields.io/badge/From_Journalism-gray) ![Open%20to%20relocation](https://img.shields.io/badge/Open_to_relocation-yes-success) ![Availability](https://img.shields.io/badge/Availability-immediate-brightgreen)
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-blue) ![Journalist](https://img.shields.io/badge/From_Journalism-gray) ![Open%20to%20relocation](https://img.shields.io/badge/Open_to_relocation-yes-success) ![Availability](https://img.shields.io/badge/Availability-immediate-brightgreen)
 
 ---
 
