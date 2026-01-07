@@ -11,8 +11,8 @@ Web Developer with a newsroom backbone. 🗞️ Ex-journalist at ABC de Sevilla 
 ---
 
 ## 🛠 Projects
-🌱 **Water Simulation Algorithm** — 2024–2025 — [link](https://oa.upm.es/77114/)  
-I migrated a legacy MATLAB model to Python (NumPy/Matplotlib), profiled hot spots, and streamlined plotting, yielding **~60% faster** field simulations; results presented at the 2025 CIGeo Engineering Congress.
+🌱 **Water Simulation Algorithm** — 2024–2025
+I migrated a legacy MATLAB model to Python (NumPy/Matplotlib), profiled hot spots, and streamlined plotting, yielding **~60% faster** field simulations; results presented at the 2025 CIGeo Engineering Congress. [An Open Software Platform for Simulating the Wet Bulb Dynamics in Drip Irrigation Systems: Initial Steps](https://tinyurl.com/5y5dhv8f)  
 
 🌾 **SaaS for Irrigation Management** — 2024–2025  
 From requirements to MVP with **Nuxt (TypeScript)** and **Supabase**, enabling producers to understand parcel-level water behavior and validate workflows in real settings.
