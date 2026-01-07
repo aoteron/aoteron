@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About me
-Web Developer with a newsroom backbone. 🗞️ Ex-journalist at ABC de Sevilla.
+Web Developer with a newsroom backbone. 🗞️ Former journalist.
 
 ---
 
