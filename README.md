@@ -1,18 +1,14 @@
 # 👋 Hi, I'm Alberto!
 
-![Software Engineer](https://img.shields.io/badge/Software_Engineer-blue) ![Journalist](https://img.shields.io/badge/Journalist-gray) ![Open%20to%20relocation](https://img.shields.io/badge/Open_to_relocation-yes-success) ![Availability](https://img.shields.io/badge/Availability-immediate-brightgreen)
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-blue) ![Information Security Technician](https://img.shields.io/badge/Security_Technician-gray)
 
----
-
-## 🔎 Now
-- 🎓 Computer Engineering student — **UOC**
-- 🧭 Actively seeking employment
 
 ---
 
 ## 🚀 About me
-Junior Software Engineer switching from newsrooms to code. I study Computer Engineering at the UOC. Built an irrigation SaaS MVP (Nuxt/TypeScript/Supabase) and rewrote MATLAB models in Python for a ~60% speed-up. Based in Seville, open to relocation, available now. Actively looking for a junior backend role; learning Java.
+Web Developer with a newsroom backbone. 🗞️ Ex-journalist at ABC de Sevilla — I map business context fast, spot user needs and communicate ideas clearly to different audiences. I work with TypeScript/JavaScript (React, Node.js, Vue/Nuxt) and Python; design REST APIs; and model data with MongoDB/Supabase.
 
+🎓 Now studying Computer Engineering at the Universitat Oberta de Catalunya (online, part-time). 📍 Seville - Valencia
 ---
 
 ## 🛠 Projects
@@ -29,9 +25,9 @@ Drafted an R&D proposal leveraging drone imagery and recognition models to flag 
 
 ## 📚 Education
 - **BSc Computer Engineering — UOC** *(ongoing)*
-- **Information Security (course) IFCT0109** *(ongoing)*
+- **Information Security — FP PLUS (2024)*
 - **Master’s in Full-Stack Development — AIT (2024)*
--  **Event Management & Communication — UNIA (2020)*
+- **Event Management & Communication — UNIA (2020)*
 - **BA Journalism — University of Seville (2018)*
 
 ---
@@ -40,7 +36,7 @@ Drafted an R&D proposal leveraging drone imagery and recognition models to flag 
 **Programming** · Python · MATLAB · TypeScript · JavaScript · C  
 **Data & Viz** · NumPy · Pandas · Matplotlib · Postgres  
 **Web** · Nuxt.js · Next.js · React · Tailwind CSS · Styled Components  
-**Tools** · Supabase · Docker · Flask · Django · GitHub Actions · Vercel
+**Frameworks and others** · Supabase · Docker · Flask · Django · GitHub Actions · Vercel
 
 ---
 
