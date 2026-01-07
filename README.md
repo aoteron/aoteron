@@ -23,8 +23,8 @@ Drafted an R&D proposal leveraging drone imagery and recognition models to flag 
 ---
 
 ## 📚 Education
-- **BSc Computer Engineering — UOC** *(ongoing)*
-- *Information Security — FP PLUS (2024)*
+- **BSc Computer Engineering — UOC** *(2024 - ongoing)*
+- *Information Security — FP PLUS (2026)*
 - *Master’s in Full-Stack Development — AIT (2024)*
 - *Event Management & Communication — UNIA (2020)*
 - *BA Journalism — University of Seville (2018)*
