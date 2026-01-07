@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About me
-Web Developer with a newsroom backbone. 🗞️ Ex-journalist at ABC de Sevilla — I map business context fast, spot user needs and communicate ideas clearly to different audiences. I work with TypeScript/JavaScript (React, Node.js, Vue/Nuxt) and Python; design REST APIs; and model data with MongoDB/Supabase.
+Web Developer with a newsroom backbone. 🗞️ Ex-journalist at ABC de Sevilla.
 
 ---
 
